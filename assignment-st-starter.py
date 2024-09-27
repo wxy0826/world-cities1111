@@ -6,7 +6,7 @@ import seaborn as sns
 sns.set()
 
 # show the title
-st.title('Titanic App by Xinru Wang')
+st.title('Titanic App by Xiaoyue Wu')
 
 # read csv and show the dataframe
 df = pd.read_csv('train.csv')
